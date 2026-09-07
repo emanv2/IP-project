@@ -1,0 +1,3 @@
+username,password,role,name,hourly_wage,contact_number
+admin,admin,admin,Admin User,0.0,N/A
+employee,employeepassword,employee,john doe,4.0,33747118

@@ -1,0 +1,16 @@
+id,name,price,category
+1,Espresso,2.50,Hot Drinks
+2,Cappuccino,3.50,Hot Drinks
+3,Latte,3.75,Hot Drinks
+4,Americano,3.00,Hot Drinks
+5,Iced Latte,4.00,Cold Drinks
+6,Iced Americano,3.50,Cold Drinks
+7,Green Tea,2.75,Hot Drinks
+8,Butter Croissant,2.25,Bakery
+9,Chocolate Croissant,2.75,Bakery
+10,Blueberry Muffin,3.00,Bakery
+11,Chocolate Chip Cookie,1.75,Bakery
+12,Cheesecake,4.50,Dessert
+13,Chocolate Fudge Cake,4.75,Dessert
+14,Club Sandwich,6.50,Snacks
+15,Avocado Toast,7.00,Snacks
